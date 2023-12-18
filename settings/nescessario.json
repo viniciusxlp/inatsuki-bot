@@ -1,0 +1,31 @@
+{
+	"crtt": "𝐉𝐎𝐆𝐎 𝐃𝐀 𝐕𝐄𝐋𝐇𝐀",
+	"forwarding": false,
+	"banChats": false,
+	"menu_audio": false,
+	"verificado": true,
+	"consoleoff": true,
+	"antipv": true,
+	"anticall": false,
+	"visualizarmsg": true,
+	"listanegraG": [],
+	"botoes_": false,
+	"TOKEN_GPT": "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",
+	"cmd_premium": [
+		"rename,roubar",
+		null,
+		"akinator"
+	],
+	"dono1": ".",
+	"dono2": "558596145353",
+	"dono3": ".",
+	"dono4": ".",
+	"dono5": ".",
+	"dono6": ".",
+	"botoff": false,
+	"Odelete": true,
+	"welcomepv": true,
+	"figupv": true,
+	"fundo1": "https://telegra.ph/file/2a3de9276c9318f648ebe.jpg",
+	"fundo2": "https://telegra.ph/file/b976fc58991455eae9ac2.jpg"
+}
